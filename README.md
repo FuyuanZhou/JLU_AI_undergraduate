@@ -1,0 +1,2 @@
+# JLU_AI_undergraduate
+吉林大学人工智能专业本科生指北
