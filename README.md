@@ -43,7 +43,7 @@
 - 人工智能数学基础
 - 算法分析
 - 自动控制原理
-- 操作系统原理
+- [操作系统原理](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86)
 
 ### 专业必修课
 - 人工智能前沿Ⅰ
