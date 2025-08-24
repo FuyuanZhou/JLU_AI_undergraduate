@@ -42,7 +42,7 @@
 - 数据结构课程设计
 - 人工智能数学基础
 - 算法分析
-- 自动控制原理
+- [自动控制原理](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86)
 - [操作系统原理](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86)
 
 ### 专业必修课
