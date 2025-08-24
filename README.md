@@ -49,7 +49,7 @@
 - 人工智能前沿Ⅰ
 - 人工智能前沿Ⅱ
 - 认知科学导论  
-- 机器学习与模式识别Ⅰ
+- [机器学习与模式识别Ⅰ](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 - 机器学习与模式识别课程设计Ⅰ  
 - 机器学习与模式识别Ⅱ
 - 机器学习与模式识别课程设计Ⅱ  
