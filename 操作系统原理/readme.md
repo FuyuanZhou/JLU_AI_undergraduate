@@ -1,6 +1,5 @@
-大三下高学分必修课，保研决胜课。
-<img width="1711" height="758" alt="image" src="https://github.com/user-attachments/assets/87539ff8-74bb-4aa5-983a-6b20d07ad2e9" />
 
+<img width="1711" height="758" alt="image" src="https://github.com/user-attachments/assets/87539ff8-74bb-4aa5-983a-6b20d07ad2e9" />
 1. 操作系统引论
 2. 进程的描述与控制
 3. 处理机调度与死锁
