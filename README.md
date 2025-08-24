@@ -38,7 +38,7 @@
 - 离散数学
 - 数字逻辑
 - 计算机原理与系统结构
-- 数据结构
+- [数据结构](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 - 数据结构课程设计
 - 人工智能数学基础
 - 算法分析
