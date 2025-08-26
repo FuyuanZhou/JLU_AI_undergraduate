@@ -10,7 +10,7 @@
 每届学生培养方案略有出入，详见[培养方案公示](https://sai.jlu.edu.cn/info/1226/4818.htm)。以下列表中将限选课纳入必修课，军训、体育、英语以及毕业年级相关课程未加入。    
 [电子教材](https://www.yuque.com/u58381873/biwmno/icd40km94ow6gyw0?singleDoc#) 密码：of3d
 
-### 思政类课程
+### [思政类课程](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E6%80%9D%E6%94%BF%E7%B1%BB%E8%AF%BE%E7%A8%8B)
 - 国家安全教育
 - 思想道德与法治  
 - 中国近现代史纲要  
