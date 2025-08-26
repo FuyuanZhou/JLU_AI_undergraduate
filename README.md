@@ -59,7 +59,7 @@
 - 计算机视觉与可视计算I  
 - 演化计算  
 
-### 选修课
+### [选修课](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E9%80%89%E4%BF%AE%E8%AF%BE)
 - 组合数学
 - 统计计算
 - 多元统计
