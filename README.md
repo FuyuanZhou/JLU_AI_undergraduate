@@ -7,7 +7,8 @@
 
 ## 课程
 我们的第一步计划是介绍完整的课程体系，分享每门课的电子资料或者往年真题（回忆版），有些课件涉及版权问题不能上传。  
-每届学生培养方案略有出入，详见[培养方案公示](https://sai.jlu.edu.cn/info/1226/4818.htm)。以下列表中将限选课纳入必修课，军训、体育、英语以及毕业年级相关课程未加入。    
+每届学生培养方案略有出入，详见[培养方案公示](https://sai.jlu.edu.cn/info/1226/4818.htm)。  
+以下列表中将限选课纳入必修课，军训、体育、英语以及毕业年级相关课程未加入，校公选课选课可参考[吉大选课互助文档](https://github.com/FuyuanZhou/JLU_AI_undergraduate/blob/main/%E5%90%89%E5%A4%A7%E9%80%89%E8%AF%BE%E4%BA%92%E5%8A%A9%E6%96%87%E6%A1%A3.xlsx)。    
 [电子教材](https://www.yuque.com/u58381873/biwmno/icd40km94ow6gyw0?singleDoc#) 密码：of3d
 
 ### [思政类课程](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E6%80%9D%E6%94%BF%E7%B1%BB%E8%AF%BE%E7%A8%8B)
