@@ -21,7 +21,7 @@
 - 形势与政策Ⅰ、Ⅱ、Ⅲ  
 - 思想政治理论课实践教学  
 
-### 数理基础类
+### [数理基础类](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E7%B1%BB)
 - 微积分AⅠ  
 - 微积分AⅡ  
 - 微积分AⅢ  
