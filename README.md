@@ -54,7 +54,7 @@
 - 机器学习与模式识别课程设计Ⅰ  
 - 机器学习与模式识别Ⅱ
 - 机器学习与模式识别课程设计Ⅱ  
-- 深度学习  
+- [深度学习](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)  
 - [自然语言处理](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86)
 - 数据挖掘  
 - 计算机视觉与可视计算I  
