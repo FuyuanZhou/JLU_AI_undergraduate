@@ -111,4 +111,4 @@ HKBU,NYU(SH),THU,USTC,ZJU,FDU,SYSU,HKUST(GZ),JLU...
 
 
 ## 致谢
-特别鸣谢22级班长ljd、cqn，23级lch、zq对本项目的大力支持！
+特别鸣谢20级zjk学长，21级hjx学长，22级班长ljd、cqn，23级lch、zq学弟对本项目的大力支持！
