@@ -100,8 +100,8 @@ HKBU,NYU(SH),THU,USTC,ZJU,FDU,SYSU,HKUST(GZ),JLU...
 4. 学院在校外正新楼，东门出校右转走约100米。数学楼后身有小路小门通往正新楼。从离宿舍最近的门直接打车到正新楼是不错的选择。
 5. 想到新的再续编。。。
 
-## 保研经验
-等待填充。。。
+## [保研经验](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E4%BF%9D%E7%A0%94%E6%94%BF%E7%AD%96%E8%A7%A3%E8%AF%BB)
+
 
 ## 考研经验
 等待填充。。。
