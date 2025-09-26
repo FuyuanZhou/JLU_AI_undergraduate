@@ -78,6 +78,13 @@
 - 计算机网络
 - 编译技术
 
+### The Lost Semester of AI Courses 学校不教但有用的一些内容
+- git
+- Latex
+- Docker
+- Linux
+- Shell
+
 ## 毕业去向
 ### 20级部分去向
 HKBU,NYU(SH),THU,USTC,ZJU,FDU,SYSU,HKUST(GZ),JLU...
