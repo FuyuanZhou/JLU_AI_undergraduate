@@ -85,6 +85,9 @@ HKBU,NYU(SH),THU,USTC,ZJU,FDU,SYSU,HKUST(GZ),JLU...
 ### 21级部分去向
 见[小红书](http://xhslink.com/m/1zEFAaDaHjV)
 
+### 22级部分去向
+THU,FDU,SUSTech,SYSU,WHU,HUST,CSU,USTC...
+
 ## 生活经验
 ### 新生入学
 1. 录取后8月初会有辅导员助理电话联系，他们的手机号归属地不一定是长春，请不要把他们当成诈骗人员。
@@ -112,4 +115,4 @@ HKBU,NYU(SH),THU,USTC,ZJU,FDU,SYSU,HKUST(GZ),JLU...
 
 
 ## 致谢
-特别鸣谢20级zjk学长，21级hjx学长，22级班长ljd、cqn，23级lch、zq学弟对本项目的大力支持！
+特别鸣谢20级zjk学长，21级hjx学长，22级班长ljd、cqn，23级lch、zq,24级yyh对本项目的大力支持！
