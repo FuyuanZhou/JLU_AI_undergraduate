@@ -126,4 +126,4 @@ THU,FDU,SUSTech,SYSU,WHU,HUST,CSU,USTC...
 
 
 ## 致谢
-特别鸣谢20级zjk学长，21级hjx学长，22级班长ljd、cqn，23级lch、zq,24级yyh对本项目的大力支持！
+特别鸣谢20级zjk、qts学长，21级hjx学长，22级班长ljd、cqn，23级lch、zq,24级yyh对本项目的大力支持！
