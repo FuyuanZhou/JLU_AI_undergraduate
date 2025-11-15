@@ -82,17 +82,15 @@
 - 计算机网络
 - 编译技术
 
-<<<<<<< HEAD
 ### 推荐课外自学资源
 [CS自学指南](https://csdiy.wiki/)
-=======
+
 ### The Lost Semester of AI Courses 学校不教但有用的一些内容
 - git
 - Latex
 - Docker
 - Linux
 - Shell
->>>>>>> 058bd951a516bb32bb48a2cb2e4319a7a14f9097
 
 ## 毕业去向
 ### 20级部分去向
