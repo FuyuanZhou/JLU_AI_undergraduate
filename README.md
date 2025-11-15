@@ -1,16 +1,22 @@
 # JLU_AI_undergraduate <br> 吉林大学人工智能专业本科生指北
 
 ## 前言
+非官方  
 本项目单纯是经验分享，禁止商业使用。  
 本人水平一般，对于其中内容请自行甄别，若发现明显错误请联系我修改。  
 之后管理权限会转给在读高年级学生以便及时更新，欢迎联系投稿。  
 
+## Update
+- 增加后端开发经验——25.9.27
+
+  
 ## 课程
 我们的第一步计划是介绍完整的课程体系，分享每门课的电子资料或者往年真题（回忆版），有些课件涉及版权问题不能上传。  
-每届学生培养方案略有出入，详见[培养方案公示](https://sai.jlu.edu.cn/info/1226/4818.htm)。以下列表中将限选课纳入必修课，军训、体育、英语以及毕业年级相关课程未加入。    
+每届学生培养方案略有出入，详见[培养方案公示](https://sai.jlu.edu.cn/info/1226/4818.htm)。  
+以下列表中将限选课纳入必修课，军训、体育、英语以及毕业年级相关课程未加入，校公选课选课可参考[吉大选课互助文档](https://github.com/FuyuanZhou/JLU_AI_undergraduate/blob/main/%E5%90%89%E5%A4%A7%E9%80%89%E8%AF%BE%E4%BA%92%E5%8A%A9%E6%96%87%E6%A1%A3.xlsx)。    
 [电子教材](https://www.yuque.com/u58381873/biwmno/icd40km94ow6gyw0?singleDoc#) 密码：of3d
 
-### 思政类课程
+### [思政类课程](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E6%80%9D%E6%94%BF%E7%B1%BB%E8%AF%BE%E7%A8%8B)
 - 国家安全教育
 - 思想道德与法治  
 - 中国近现代史纲要  
@@ -20,7 +26,7 @@
 - 形势与政策Ⅰ、Ⅱ、Ⅲ  
 - 思想政治理论课实践教学  
 
-### 数理基础类
+### [数理基础类](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E7%B1%BB)
 - 微积分AⅠ  
 - 微积分AⅡ  
 - 微积分AⅢ  
@@ -41,7 +47,7 @@
 - [数据结构](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 - 数据结构课程设计
 - 人工智能数学基础
-- 算法分析
+- [算法分析](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90)
 - [自动控制原理](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86)
 - [操作系统原理](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86)
 
@@ -53,13 +59,13 @@
 - 机器学习与模式识别课程设计Ⅰ  
 - 机器学习与模式识别Ⅱ
 - 机器学习与模式识别课程设计Ⅱ  
-- 深度学习  
+- [深度学习](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)  
 - [自然语言处理](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86)
 - 数据挖掘  
 - 计算机视觉与可视计算I  
 - 演化计算  
 
-### 选修课
+### [选修课](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E9%80%89%E4%BF%AE%E8%AF%BE)
 - 组合数学
 - 统计计算
 - 多元统计
@@ -76,38 +82,27 @@
 - 计算机网络
 - 编译技术
 
+<<<<<<< HEAD
 ### 推荐课外自学资源
 [CS自学指南](https://csdiy.wiki/)
+=======
+### The Lost Semester of AI Courses 学校不教但有用的一些内容
+- git
+- Latex
+- Docker
+- Linux
+- Shell
+>>>>>>> 058bd951a516bb32bb48a2cb2e4319a7a14f9097
 
 ## 毕业去向
 ### 20级部分去向
-学校     | 学院 
--------- | -------- 
-香港浸会大学（phd）|-
-上海纽约大学（phd）|-
-清华大学|深圳国际研究生院
-中国科学技术大学|苏州高等研究院
-浙江大学|工程师学院
-复旦大学|微电子
-中山大学|-
-香港科技大学（广州）|-
-吉林大学（直博）|未来科学国际合作联合实验室
-吉林大学|人工智能学院
+HKBU,NYU(SH),THU,USTC,ZJU,FDU,SYSU,HKUST(GZ),JLU...
 
 ### 21级部分去向
-学校     | 学院 | 专业
--------- | -------- | --------
-南京大学|软件学院|软件工程
-南京大学|智能科学与技术学院|人工智能
-上海交通大学|教育学院|学科教育（数学）
-中国科学院大学（直博）|自动化所|控制理论与控制工程
-浙江大学|软件学院|电子信息
-北京理工大学|珠海校区|计算机技术
-武汉大学|电子信息学院|信息与通信工程
-中山大学|网络空间安全学院|网络与信息安全
-吉林大学（直博）|人工智能学院|人工智能
-吉林大学|人工智能学院|人工智能
-香港城市大学（东莞）|-|-
+见[小红书](http://xhslink.com/m/1zEFAaDaHjV)
+
+### 22级部分去向
+THU,FDU,SUSTech,SYSU,WHU,HUST,CSU,USTC...
 
 ## 生活经验
 ### 新生入学
@@ -125,5 +120,15 @@
 4. 学院在校外正新楼，东门出校右转走约100米。数学楼后身有小路小门通往正新楼。从离宿舍最近的门直接打车到正新楼是不错的选择。
 5. 想到新的再续编。。。
 
+## [保研经验](https://github.com/FuyuanZhou/JLU_AI_undergraduate/tree/main/%E4%BF%9D%E7%A0%94%E6%94%BF%E7%AD%96%E8%A7%A3%E8%AF%BB)
+
+
+## 考研经验
+等待填充。。。
+
+## 就业经验
+实习就业经验-后端开发.md
+
+
 ## 致谢
-特别鸣谢22级班长ljd、cqn对本项目的大力支持！
+特别鸣谢20级zjk、qts学长，21级hjx学长，22级班长ljd、cqn，23级lch、zq，24级yyh对本项目的大力支持！
