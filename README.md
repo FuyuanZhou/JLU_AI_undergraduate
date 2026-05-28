@@ -126,8 +126,8 @@ THU,FDU,SUSTech,SYSU,WHU,HUST,CSU,USTC...
 等待填充。。。
 
 ## 就业经验
-实习就业经验-后端开发.md
-
+实习经验-后端开发.md
+实习经验-大模型算法.md
 
 ## 致谢
 特别鸣谢20级zjk、qts学长，21级hjx学长，22级班长ljd、cqn，23级lch、zq，24级yyh对本项目的大力支持！
