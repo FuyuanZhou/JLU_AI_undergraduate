@@ -127,6 +127,7 @@ THU,FDU,SUSTech,SYSU,WHU,HUST,CSU,USTC,JLU...
 
 ## 就业经验
 [实习经验-后端开发.md](https://github.com/FuyuanZhou/JLU_AI_undergraduate/blob/main/%E5%AE%9E%E4%B9%A0%E5%B0%B1%E4%B8%9A%E7%BB%8F%E9%AA%8C-%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91.md)
+
 [实习经验-大模型算法.md](https://github.com/FuyuanZhou/JLU_AI_undergraduate/blob/main/%E5%AE%9E%E4%B9%A0%E7%BB%8F%E9%AA%8C-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AE%97%E6%B3%95.md)
 
 ## 致谢
