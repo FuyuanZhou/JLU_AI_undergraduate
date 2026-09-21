@@ -131,4 +131,4 @@ THU,FDU,SUSTech,SYSU,WHU,HUST,CSU,USTC,JLU...
 [实习经验-大模型算法.md](https://github.com/FuyuanZhou/JLU_AI_undergraduate/blob/main/%E5%AE%9E%E4%B9%A0%E7%BB%8F%E9%AA%8C-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AE%97%E6%B3%95.md)
 
 ## 致谢
-特别鸣谢20级zjk、qts学长，21级hjx学长，22级班长ljd、cqn，23级lch、zq，24级yyh、cw对本项目的大力支持！
+特别鸣谢20级zjk、qts学长，21级hjx学长，22级班长ljd、cqn，23级lch、zq，24级yyh、cw，25级fxy对本项目的大力支持！
